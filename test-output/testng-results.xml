@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8996" started-at="2017-09-22T06:44:55Z" finished-at="2017-09-22T06:45:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8996" started-at="2017-09-22T06:44:55Z" finished-at="2017-09-22T06:45:04Z">
+      <class name="driverScript.Login">
+        <test-method status="PASS" signature="Applaunch()[pri:0, instance:driverScript.Login@1ef968d]" name="Applaunch" is-config="true" duration-ms="7987" started-at="2017-09-22T12:14:55Z" finished-at="2017-09-22T12:15:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Applaunch -->
+        <test-method status="PASS" signature="flipkart()[pri:0, instance:driverScript.Login@1ef968d]" name="flipkart" duration-ms="10" started-at="2017-09-22T12:15:03Z" finished-at="2017-09-22T12:15:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:driverScript.Login@1ef968d]" name="tearDown" is-config="true" duration-ms="979" started-at="2017-09-22T12:15:03Z" finished-at="2017-09-22T12:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverScript.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
